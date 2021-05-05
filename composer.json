@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/nova-detached-filters",
+  "name": "dualklip/nova-detached-filters",
   "description": "This Laravel Nova package allows you to detach filters from the filter dropdown",
   "keywords": [
     "laravel",
