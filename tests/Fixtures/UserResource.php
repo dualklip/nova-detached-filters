@@ -1,12 +1,12 @@
 <?php
 
-namespace OptimistDigital\NovaDetachedFilters\Tests\Fixtures;
+namespace Dualklip\NovaDetachedFilters\Tests\Fixtures;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Resource;
 use Laravel\Nova\Tests\Fixtures\User;
-use OptimistDigital\NovaDetachedFilters\HasDetachedFilters;
-use OptimistDigital\NovaDetachedFilters\NovaDetachedFilters;
+use Dualklip\NovaDetachedFilters\HasDetachedFilters;
+use Dualklip\NovaDetachedFilters\NovaDetachedFilters;
 
 class UserResource extends Resource
 {

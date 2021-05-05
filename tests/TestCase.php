@@ -1,6 +1,6 @@
 <?php
 
-namespace OptimistDigital\NovaDetachedFilters\Tests;
+namespace Dualklip\NovaDetachedFilters\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 

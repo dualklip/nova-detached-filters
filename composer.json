@@ -36,18 +36,18 @@
   },
   "autoload": {
     "psr-4": {
-      "OptimistDigital\\NovaDetachedFilters\\": "src/"
+      "Dualklip\\NovaDetachedFilters\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "OptimistDigital\\NovaDetachedFilters\\Tests\\": "tests/"
+      "Dualklip\\NovaDetachedFilters\\Tests\\": "tests/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "OptimistDigital\\NovaDetachedFilters\\CardServiceProvider"
+        "Dualklip\\NovaDetachedFilters\\CardServiceProvider"
       ]
     }
   },

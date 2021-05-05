@@ -33,7 +33,7 @@ composer require optimistdigital/nova-detached-filters
 Pass the filters you wish to detach from the filter menu and show on a card to `NovaDetachedFilters` class.
 
 ```php
-use OptimistDigital\NovaDetachedFilters\NovaDetachedFilters;
+use Dualklip\NovaDetachedFilters\NovaDetachedFilters;
 
 public function filters()
 {
@@ -62,8 +62,8 @@ protected function myFilters()
 If you only wish to show some filters on `DetachedFilters` card, you must use `HasDetachedFilters` trait.
 
 ```php
-use OptimistDigital\NovaDetachedFilters\NovaDetachedFilters;
-use \OptimistDigital\NovaDetachedFilters\HasDetachedFilters;
+use Dualklip\NovaDetachedFilters\NovaDetachedFilters;
+use \Dualklip\NovaDetachedFilters\HasDetachedFilters;
 
 class ExampleResource extends Resource
 {
